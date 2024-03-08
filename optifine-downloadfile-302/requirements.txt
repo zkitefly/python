@@ -1,0 +1,4 @@
+flask
+flask_caching
+httpx
+node-semver
